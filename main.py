@@ -36,7 +36,7 @@ if __name__ == "__main__":
     keep_alive()
     
     # DİQQƏT: Öz botunuzun Tokenini bura daxil edin
-    TOKEN = "SİZİN_BOT_TOKENİNİZİ_BURAYA_YAZIN"
+    TOKEN = "MTUwMTYwNDQxOTc2OTMzNTg3MA.GpvC77.tpYfdVf7j5guNcwTH3X0AnYmctueMVINuU7QUw"
     
     bot.run(TOKEN)
     
